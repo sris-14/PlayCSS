@@ -4,4 +4,4 @@ This repository includes some fun patterns using css.
 > Pattern 1 :
 
 
-![alt text](<Screenshot 2024-03-18 133045-1.png>)
+![alt text](<img ="Screenshot 2024-03-18 133045-1.png" width="100px" height ="100px">)

@@ -11,4 +11,4 @@ This repository includes some fun patterns using css.
 
 # Pattern 2 :
 
-<img src="Screenshot 2024-03-18 142753.png" width = "300px" height ="300px">
+<img src="pics/Screenshot 2024-03-18 142753.png" width = "300px" height ="300px">
